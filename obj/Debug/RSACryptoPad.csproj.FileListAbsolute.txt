@@ -1,0 +1,10 @@
+C:\Users\koolo\Desktop\RSACryptoPad\bin\Debug\RSACryptoPad.exe
+C:\Users\koolo\Desktop\RSACryptoPad\bin\Debug\RSACryptoPad.pdb
+C:\Users\koolo\Desktop\RSACryptoPad\obj\Debug\RSACryptoPad.csprojAssemblyReference.cache
+C:\Users\koolo\Desktop\RSACryptoPad\obj\Debug\RSACryptoPad.AboutForm.resources
+C:\Users\koolo\Desktop\RSACryptoPad\obj\Debug\RSACryptoPad.KeyPairGeneratorForm.resources
+C:\Users\koolo\Desktop\RSACryptoPad\obj\Debug\RSACryptoPad.MainForm.resources
+C:\Users\koolo\Desktop\RSACryptoPad\obj\Debug\RSACryptoPad.csproj.GenerateResource.cache
+C:\Users\koolo\Desktop\RSACryptoPad\obj\Debug\RSACryptoPad.csproj.CoreCompileInputs.cache
+C:\Users\koolo\Desktop\RSACryptoPad\obj\Debug\RSACryptoPad.exe
+C:\Users\koolo\Desktop\RSACryptoPad\obj\Debug\RSACryptoPad.pdb
